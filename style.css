@@ -16,7 +16,7 @@ body {
 
 .about {
   
-    background-image: url('./images/Dandelions-4.jpg');
+    background-image: url('images/Dandelions-4.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -98,7 +98,7 @@ footer {
 
 .aboutme {
   
-    background-image: url('./images/Dandelions-2.jpg');
+    background-image: url('images/Dandelions-2.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -131,7 +131,7 @@ footer {
   
   .aboutmelinks {
   
-    background-image: url('./images/Dandelions3.jpg');
+    background-image: url('images/Dandelions3.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
