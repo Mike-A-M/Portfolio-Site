@@ -130,7 +130,6 @@ footer {
     margin-bottom: 1%;
   
 }
-  
 
 
   body, html {
@@ -141,7 +140,7 @@ footer {
   
   .aboutmelinks {
   
-    background-image: url('./images/Dandelions3.jpg');
+    background-image: url('./images/sadat-alam-protik-fuKKYbyfKfM-unsplash.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -152,7 +151,6 @@ footer {
     align-items: left;
     text-align: left;
     flex-direction: column;
-    color: yellow;
   }
 
   .about-banner h1 {
@@ -163,17 +161,13 @@ footer {
   }
 
   .aboutmelinks a {
-    font-size: 50px;
-    color: black;
-    opacity: 0.9;
-    text-decoration: none;
+   
+    color: white;;
+    text-decoration: unset;
     margin: 2%;
-  }
-
-  .aboutmelinks h3 {
-    color: black;
-    opacity: 100%;
-
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 3rem;
+    opacity: 1;
   }
 
   nav a {
@@ -184,4 +178,36 @@ footer {
   .aboutme img {
     border: 1px solid;
     border-radius: 20px;
+  }
+
+  h4 {
+    margin: 2%;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2rem;
+    opacity: 1;
+    color: white;
+   
+  }
+  .aboutmyprojects {
+  
+    background-image: url('./images/Dandelions3.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: auto;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    margin-top: 10%;
+    display: flex;
+    width: auto;
+    font-size: 1.5rem; 
+    margin: 2%;
+    color: black;
+  }
+
+  #physical {
+    color: black;
+    
   }
