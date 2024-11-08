@@ -211,3 +211,36 @@ footer {
     color: black;
 
   }
+
+.finearts {
+  
+    background-image: url('./images/Dandellion-5.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: auto;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    margin-top: 20%;
+    display: flex;
+    width: auto;
+    font-size: 1.5rem; 
+    margin: 2%;
+    color: black;
+}
+
+#finearts {
+
+color: yellow;
+font-size: 3em;
+opacity: 1;
+}
+
+
+
+.finearts a {
+  color: yellow;
+  font-size: 1.5em;
+}
