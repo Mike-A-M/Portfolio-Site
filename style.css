@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .mr-dafoe-regular {
   font-family: "Mr Dafoe", cursive;
   font-weight: 100;
@@ -243,4 +244,256 @@ opacity: 1;
 .finearts a {
   color: yellow;
   font-size: 1.5em;
+}
+
+#currentconditons {
+  color: black;
+  opacity: 1;
+=======
+.mr-dafoe-regular {
+  font-family: "Mr Dafoe", cursive;
+  font-weight: 100;
+  font-style: normal;
+  
+}
+
+body {
+  background: black;
+}
+
+.banner {
+  background-color: black;
+  width: 100%;
+  opacity: 0.7;
+}
+
+.about {
+  
+    background-image: url('./images/Dandelions-4.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    height: 75%;
+    width: auto;
+    height: auto;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+  }
+   
+h1, h2, h3, p {
+  color: seashell;
+}
+
+h1 {
+  font-size: 6em;
+  font-family: "Mr Dafoe", cursive;
+  opacity: .7;
+  text-shadow: 4px 4px 2px rgba(212, 226, 15, 0.4); 
+}
+
+
+h2 {
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 3rem;
+  opacity: 0.5;
+  
+}
+  
+
+
+h3 {
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 2rem;
+  opacity: 0.5;
+ 
+}
+
+
+nav {
+  background: black;
+  width: 100%;
+  margin-top: 20%;
+  margin-bottom: 2%;
+}
+
+nav li{
+
+  background: black;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: seashell;
+  font-size: 1.5rem;
+  display: inline;
+  width: 100%;
+  height: auto;
+  list-style: none;
+  margin-left: 2%;
+  margin-right: 2%;
+  margin-top:5%;
+  margin-bottom: 1%;
+  
+}
+
+.me img {
+  display: flex;
+  width: 8%;
+  height: auto;
+  margin-top: 1%;
+  margin-left: 2%;
+  justify-items: left;
+  border-radius: 25%;
+
+}
+
+footer {
+  color: seashell;
+  font-size: 0.5 rem;
+  text-align: center;
+  margin-bottom: 0%;
+  margin-top: 1%;
+  padding: 0%;
+}
+
+.aboutme {
+  
+    background-image: url('./images/Dandelions-2.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: auto;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    margin-top: 10%;
+    display: flex;
+    width: auto;
+    font-size: 1.5rem; 
+    margin: 2%;
+    color: white;
+  }
+
+  .about-banner h1 {
+    text-align: center;
+    opacity: 0.7;
+    margin-top: 1%;
+    margin-bottom: 1%;
+  
+}
+
+
+  body, html {
+    height: 100%;
+  }
+
+  
+  
+  .aboutmelinks {
+  
+    background-image: url('./images/sadat-alam-protik-fuKKYbyfKfM-unsplash.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    height: 75%;
+    width: auto;
+    justify-content: center;
+    align-items: left;
+    text-align: left;
+    flex-direction: column;
+  }
+
+  .about-banner h1 {
+    text-align: center;
+    opacity: 0.7;
+    margin-top: 1%;
+    margin-bottom: 1%;
+  }
+
+  .aboutmelinks a {
+   
+    color: white;;
+    text-decoration: unset;
+    margin: 2%;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 3rem;
+    opacity: 1;
+  }
+
+  nav a {
+    text-decoration: none;
+    color: yellow;
+  }
+
+  .aboutme img {
+    border: 1px solid;
+    border-radius: 20px;
+  }
+
+  h4 {
+    margin: 2%;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2rem;
+    opacity: 1;
+    color: white;
+   
+  }
+  .aboutmyprojects {
+  
+    background-image: url('./images/Dandelions3.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: auto;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    margin-top: 10%;
+    display: flex;
+    width: auto;
+    font-size: 1.5rem; 
+    margin: 2%;
+    color: black;
+  }
+
+  #physical {
+    color: black;
+
+  }
+
+.finearts {
+  
+    background-image: url('./images/Dandellion-5.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: auto;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    margin-top: 20%;
+    display: flex;
+    width: auto;
+    font-size: 1.5rem; 
+    margin: 2%;
+    color: black;
+}
+
+#finearts {
+
+color: yellow;
+font-size: 3em;
+opacity: 1;
+}
+
+
+
+.finearts a {
+  color: yellow;
+  font-size: 1.5em;
+>>>>>>> 5413bad1b36d02b1ef5134cc73af9ae7142b1f40
 }
